@@ -1,6 +1,7 @@
 <div align="center">
-<img src="https://cdn.sanity.io/images/lbx4zs9l/production/591b9df9f3bda5b51f4a27f8c9751378ec50f7d5-1000x1333.jpg?h=400&fit=max" align="center" style="height: 400px; width: auto" />
-</div>  
+  <img src="https://raw.githubusercontent.com/jordan-mcrae/github-stats/master/generated/overview.svg#gh-dark-mode-only" />
+  <img src="https://raw.githubusercontent.com/jordan-mcrae/github-stats/master/generated/languages.svg#gh-dark-mode-only" />
+</div>
   
 
 ### <div align="center">Hey there, I'm Jordan! Co-founder of [@stackfive_io ](https://stackfive.io), developer advocate, husband and dog dad.
@@ -83,16 +84,3 @@ My Favourite Toolbelt 🛠
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
-
-<br/>  
-
-
-## Github Stats  
-<div align="center">
-  ![](https://raw.githubusercontent.com/jordan-mcrae/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-</div>
-<br/> 
-<div align="center">
-![](https://raw.githubusercontent.com/jordan-mcrae/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-</div>
