@@ -6,7 +6,7 @@
 
 # <div align="center">Hey there, I'm Jordan! Co-founder of [@stackfive_io ](https://stackfive.io)
 
-Previously [@adidas](https://github.com/adidas) ///
+Previously [@adidas](https://github.com/adidas) /// Focals (Acquired by Google)
 
 My Favourite Toolbelt 🛠
 [@nextjs](https://nextjs.org/) 
