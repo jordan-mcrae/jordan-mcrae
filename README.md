@@ -15,9 +15,6 @@ My Favourite Toolbelt 🛠
 [@sanity_io](https://sanity.io/)
 [@vercel](https://vercel.com/)</div>  
 
-- 🔭 Currently working on a Discord bot boilerplate and CLI tool  
-- ❓ Exploring ML with realtime translations  
-
 <br/>  
 
 ## My Skill Set  
